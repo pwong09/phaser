@@ -1,2 +1,2 @@
 # phaser
-games made using phaser.js
+a frozen tundra game made using phaser.js
